@@ -1,5 +1,5 @@
 # CODS2017
-Repo for CODS2017 Data challenge
+Data Challenge: Differentiating Code-Borrowing from Code-Mixing
 
 
 ### Test by UK
@@ -8,4 +8,4 @@ Repo for CODS2017 Data challenge
 1. List2
 1. List3
 
-## Test
+## Test 1
