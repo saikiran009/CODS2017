@@ -1,11 +1,8 @@
 # CODS2017
 Data Challenge: Differentiating Code-Borrowing from Code-Mixing
 
+[Description of the Model](https://github.com/CuddleDataScience/CODS2017/blob/master/Model.pdf) 
 
-### Test by UK
+[Code](https://github.com/CuddleDataScience/CODS2017/blob/master/Model.pdf)
 
-1. List1
-1. List2
-1. List3
-
-## Test 1
+[Output](https://github.com/CuddleDataScience/CODS2017/blob/master/output.csv)
